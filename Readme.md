@@ -2,5 +2,4 @@
 
 This is harry's code. The best code in this world.
 
-## Let me walk you thorugh this project
 
